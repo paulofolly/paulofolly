@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paulo Folly</h1>
+<h1 align="center">Hi 👋,  I'm Paulo Folly</h1>
 <h3 align="center">A passionate Data Science student from Brazil</h3>
 
 - 🔭 I’m currently working on **Investment Portfolio Optimization**
