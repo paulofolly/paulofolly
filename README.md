@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Investment Portfolio Optimization**
 
-- 🌱 I’m currently learning **Python, SQL and Quantitative Finance**
+- 🌱 I’m currently learning **Python, SQL, R and Quantitative Finance**
 
 - 👨‍💻 All of my projects are available at [www.paulofolly.com/projects](www.paulofolly.com/projects)
 
